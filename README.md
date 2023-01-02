@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sam-warwick
-- 👀 I’m interested in data visulisation
+- 👀 I’m interested in data visulisation, sports analytics
 - 🌱 I’m currently learning Python, SQL, Power BI, Tableau
 - 📫 How to reach me: samwarwick9@gmail.com | linkedin.com/in/sam-warwick 
 
